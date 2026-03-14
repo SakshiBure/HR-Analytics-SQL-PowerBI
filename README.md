@@ -104,7 +104,7 @@ The Power BI dashboard provides key HR analytics insights:
 
 # 📊 Dashboard Preview
 
-![Dashboard Screenshot](Images/dashboard.png)
+Screenshot 2026-03-14 123026.png
 
 ---
 
